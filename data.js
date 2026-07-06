@@ -61,7 +61,7 @@ const portfolioData = {
       category: "Vehicle Design",
       description: "Designed, manufactured, assembled, and tested an off-road competition vehicle as part of a multidisciplinary engineering team.",
       tools: ["SolidWorks", "Manufacturing", "Testing"],
-      image: "images/Baja.jpg"
+      image: "Baja.jpg"
     },
     {
       title: "Autonomous Drawing Robot",
