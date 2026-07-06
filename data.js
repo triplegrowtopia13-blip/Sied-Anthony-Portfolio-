@@ -9,7 +9,7 @@ const portfolioData = {
   email: "anthonymansojer@gmail.com",
   phone: "(260) 226-2282",
   linkedin: "www.linkedin.com/in/sied-anthony-mansojer-20bb57418",
-  resumeLink: "Resume.pdf",
+  resumeLink: "resume.pdf",
 
   about: `I am a Mechanical Engineering student at Grace College & Seminary with hands-on experience in manufacturing, equipment maintenance, CAD design, machining, robotics, and programming. I enjoy solving real problems, building functional projects, and improving systems through practical engineering.`,
 
