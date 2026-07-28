@@ -23,7 +23,7 @@ const portfolioData = {
   ],
 
   skills: {
-    CAD: ["SolidWorks", "Fusion 360"],
+    CAD: ["SolidWorks", "Fusion 360", "GD & T", "Sheet Metal", "Assemblies", "Drawings"],
     Programming: ["MATLAB", "Python", "RStudio"],
     Manufacturing: ["CNC", "Manual Mill", "Engine Lathe", "3D Printing", "GOM Scanner", "Calipers", "Micrometers"],
     Software: ["Microsoft Excel", "LoggerPro"]
